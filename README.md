@@ -1,3 +1,17 @@
+# CuriOS
+
+30日でできる！OS自作入門用リポジトリ
+
+https://github.com/HariboteOS/tolenv
+https://github.com/sandai/30nichideosjisaku
+を参考にしています。
+
+traPの方は[wiki](https://wiki.trap.jp/user/temma/activity/OS)も参照してください。
+
+以下、tolenvのREADME.md
+
+***
+
 # tolenv
 
 ![tolenv_banner](docs/tolenv_banner.png)
