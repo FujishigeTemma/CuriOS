@@ -2,11 +2,15 @@
 
 30日でできる！OS自作入門用リポジトリ
 
-https://github.com/HariboteOS/tolenv
+2020/4
+
+Mac OS Catalina 10.15.4
+
+https://github.com/HariboteOS/tolenv,
 https://github.com/sandai/30nichideosjisaku
 を参考にしています。
 
-traPの方は[wiki](https://wiki.trap.jp/user/temma/activity/OS)も参照してください。
+traPの方は[wiki](https://wiki.trap.jp/user/temma/activity/OS)も書いてあるのでそっちもどうぞ。
 
 以下、tolenvのREADME.md
 
